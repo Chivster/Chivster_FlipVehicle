@@ -4,7 +4,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'NoLo Store'
-description 'Taxi Job'
+description 'Vehicle Flip Script'
 version '1.0.0'
 
 shared_scripts {
